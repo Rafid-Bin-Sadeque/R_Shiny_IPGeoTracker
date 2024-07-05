@@ -47,5 +47,3 @@ This Shiny application processes user login data to find IP addresses and their 
 5. View the Table The processed data will be displayed in a table within the app.
 
 ---
-
-Feel free to customize this summary to better fit your needs or add more details as required!
